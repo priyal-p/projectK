@@ -1,0 +1,4 @@
+hello.info
+*.log
+*.class
+logs/
